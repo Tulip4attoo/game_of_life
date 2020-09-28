@@ -14,3 +14,4 @@ I think that I will write some articles after finishing the code. Maybe it shoul
 
 + 18 Sep: created
 + 27 Sep: created some main files. Still not figure out how to code it yet. Should write out the flow and coding next week.
++ 28 Sep: finished the calculation part. Much easier than my thought. It can calculate a state of [1280, 1280] field in 0.09s, I think that it is quite fast. Will implement the visualize part later. And write some test cases.
